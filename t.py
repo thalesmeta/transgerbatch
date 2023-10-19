@@ -1,7 +1,7 @@
 from web3 import Web3
 import time
 
-# 以太坊节点的RPC URL
+# RPC
 rpc_url = "https://mainnet.base.org"
 
 # 创建Web3对象
